@@ -23,6 +23,7 @@
 	],
 	"require" : {
 		"symfony/framework-bundle" : ">=2.1"
+		"stinger/ckeditor-notificationaggregator-bundle" : "~4.5"
 	},
 	"suggest" : {
 		"Trsteel/ckeditor-bundle" : "The CKEditor Bundle we're using ;)"
