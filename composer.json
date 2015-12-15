@@ -22,7 +22,7 @@
 		}
 	],
 	"require" : {
-		"symfony/framework-bundle" : ">=2.1"
+		"symfony/framework-bundle" : ">=2.1", 
 		"stinger/ckeditor-notificationaggregator-bundle" : "~4.5"
 	},
 	"suggest" : {
